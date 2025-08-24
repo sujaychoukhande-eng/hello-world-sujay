@@ -1,4 +1,4 @@
 # My first Edit
 This is my first time editing a GitHub README file.
 
-Print("Hello world):
+Print("Hello world"):
